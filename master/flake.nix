@@ -11,6 +11,7 @@
   inputs.src-gtkgenui-master.ref   = "refs/heads/master";
   inputs.src-gtkgenui-master.owner = "PMunch";
   inputs.src-gtkgenui-master.repo  = "gtkgenui";
+  inputs.src-gtkgenui-master.dir   = "";
   inputs.src-gtkgenui-master.type  = "github";
   
   inputs."gtk2".owner = "nim-nix-pkgs";
