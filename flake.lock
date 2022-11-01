@@ -67,11 +67,11 @@
       },
       "locked": {
         "dir": "v1_3",
-        "lastModified": 1667323240,
-        "narHash": "sha256-2uQtePyYx9Kgc6bTFAtdDL8oTg0qOg6x9aUCn91MJyE=",
+        "lastModified": 1667330392,
+        "narHash": "sha256-cN141TdlW4JVmsNi1TEExAL5dhBZvQhhOT4LJ3iALn8=",
         "owner": "nim-nix-pkgs",
         "repo": "gtk2",
-        "rev": "919f2bffbcd380be40664e29d34a70fbf1ab257e",
+        "rev": "3f0ded00a21d2898d1c60f7d961affc4336eab81",
         "type": "github"
       },
       "original": {
@@ -95,11 +95,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1667323527,
-        "narHash": "sha256-oB2BXhuIBi161/J2ws9iTJ0imGQGG7lxCovX8Uh9Sx8=",
+        "lastModified": 1667330606,
+        "narHash": "sha256-7RYHOsEQW4wYiSitpCEQqzScnkFcl4y4PJg7QMYKji4=",
         "owner": "nim-nix-pkgs",
         "repo": "gtkgenui",
-        "rev": "2bf4a227de90b7e0dbc635aacfbcd349482442fa",
+        "rev": "f42db83670994bd3469af3e3648a85aff8e956ea",
         "type": "github"
       },
       "original": {
